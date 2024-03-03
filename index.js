@@ -14,7 +14,7 @@ const Para1 = React.createElement('p',{
     style:{
         marginBottom:'30px',
         textAlign:'start',
-        fontSize:'20px',
+        fontSize:'19px',
         lineHeight:'1.6rem'
 
     
@@ -26,7 +26,7 @@ const Para2 = React.createElement('p',{
     style:{
         marginBottom:'30px',
         textAlign:'start',
-        fontSize:'20px',
+        fontSize:'19px',
         lineHeight:'1.6rem'
 
 
@@ -37,7 +37,7 @@ const Para3 = React.createElement('p',{
     style:{
         marginBottom:'30px',
     textAlign:'start',
-    fontSize:'20px',
+    fontSize:'19px',
     lineHeight:'1.6rem'
 
         
