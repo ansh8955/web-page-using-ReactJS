@@ -12,7 +12,7 @@ const H2 = React.createElement('h2',{
 
 const Para1 = React.createElement('p',{
     style:{
-        marginBottom:'20px',
+        marginBottom:'25px',
         textAlign:'start',
         fontSize:'20px',
         lineHeight:'1.6rem'
@@ -24,7 +24,7 @@ const Para1 = React.createElement('p',{
 
 const Para2 = React.createElement('p',{
     style:{
-        marginBottom:'20px',
+        marginBottom:'25px',
         textAlign:'start',
         fontSize:'20px',
         lineHeight:'1.6rem'
@@ -35,7 +35,7 @@ const Para2 = React.createElement('p',{
 
 const Para3 = React.createElement('p',{
     style:{
-        marginBottom:'20px',
+        marginBottom:'25px',
     textAlign:'start',
     fontSize:'20px',
     lineHeight:'1.6rem'
